@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @samwallach7
+- 👋 Hi, I’m Sam Wallach @samwallach7
 - 👀 Professionally I am interested in Data Science and Data Analytics
-- 🎪 Outside of work I enjoy playing golf, playing tennis, hiking, kayaking and traveling
+- 🎪 Outside of work I enjoy playing golf, playing tennis, hiking, kayaking, traveling and supporting the Texas Longhorns
 - 🌱 I’m currently learning Python, SQL and MongoDB in a University of Texas at Austin Data Analytics and Visualization BootCamp
 - 📫 How to reach me - email samwallach7@gmail.com
 - 😄 Pronouns: He/him
